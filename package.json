@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "clear-logs": "^1.0.0",
+    "nodemon": "^2.0.7",
     "ws": "^7.4.4"
   }
 }
